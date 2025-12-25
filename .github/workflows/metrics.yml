@@ -1,23 +1,23 @@
-name: Metrics
-
-permissions:
-  contents: write
-  actions: read
-
-on:
-  schedule:
-    - cron: "0 6 * * *"
-  workflow_dispatch:
-
-jobs:
-  metrics:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: lowlighter/metrics@latest
-        with:
-          filename: metrics.leetcode.svg
-          token: NOT_NEEDED
-          base: ""
-          plugin_timezone: Africa/Cairo
-          plugin_leetcode: yes
-          plugin_leetcode_user: faiver90
+#name: Metrics
+#
+#permissions:
+#  contents: write
+#  actions: read
+#
+#on:
+#  schedule:
+#    - cron: "0 6 * * *"
+#  workflow_dispatch:
+#
+#jobs:
+#  metrics:
+#    runs-on: ubuntu-latest
+#    steps:
+#      - uses: lowlighter/metrics@latest
+#        with:
+#          filename: metrics.leetcode.svg
+#          token: NOT_NEEDED
+#          base: ""
+#          plugin_timezone: Africa/Cairo
+#          plugin_leetcode: yes
+#          plugin_leetcode_user: faiver90
