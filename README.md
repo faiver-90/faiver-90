@@ -1,7 +1,9 @@
 ## About me
-Backend Python engineer focused on building reliable, scalable systems.
-I work with production APIs, event-driven architectures, and infrastructure close to code.
-Care about clarity, performance, and long-term maintainability.
+Backend Python engineer with experience building and maintaining production systems.
+I focus on API design, event-driven architectures, and backend reliability.
+Worked with Django and FastAPI, handled real production traffic, incidents, and performance optimization.
+Value clear architecture, predictable systems, and long-term maintainability.
+
 
 ---
 
