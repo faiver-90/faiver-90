@@ -7,6 +7,7 @@ Care about clarity, performance, and long-term maintainability.
 
 ## GitHub Stats
 ![Metrics](https://metrics.lecoq.io/faiver-90?template=classic&leetcode=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&leetcode=false&leetcode.user=faiver90&leetcode.sections=solved&leetcode.limit.skills=10&leetcode.limit.recent=2&config.timezone=Africa%2FCairo)
+![LeetCode](./metrics.leetcode.svg)
 
 ---
 
